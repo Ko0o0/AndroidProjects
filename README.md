@@ -27,5 +27,5 @@
   
   #### 소스 코드 동적 로딩(Dynamic Loading DEX/SO File)  
   > Java에서 DEX 동적 로딩 구현 → Java에서 암호화된 DEX 동적 로딩 구현 → JNI에서 암호화된 DEX 동적 로딩 구현  
-  > Java에서 SO 동적 로딩 구현 → Java에서 암호화된 SO 동적 로딩 구현 → JNI에서 암호화된 SO 동적 로딩 구현 (이것도 아직 생각만 하고 있음..)  
+  > Java에서 SO 동적 로딩 구현 → Java에서 암호화된 SO 동적 로딩 구현 → JNI에서 암호화된 SO 동적 로딩 구현 (이건 아직 만..)  
   
