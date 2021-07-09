@@ -1,7 +1,8 @@
 # AndroidProjects
 ## 궁극적 목표
 > 안드로이드 해킹 방지를 위한 보안 솔루션 기능 직접 구현 및 우회(이건 보너스..?)
-* ### 루팅 탐지 (Rooting Detection)
+
+### 루팅 탐지 (Rooting Detection)
 >루팅 탐지 기법
 >Java 단에서 구현
 >JNI 단에서 구현
