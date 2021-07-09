@@ -7,6 +7,6 @@
 
 
 * ### 루팅 탐지 (Rooting Detection)
-> *루팅 탐지 기법
+>> 루팅 탐지 기법
 > Java 단에서 구현
 > JNI 단에서 구현
