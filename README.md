@@ -18,6 +18,9 @@
 * ## 구현 내용
   #### 루팅 탐지(Rooting Detection)  
   > 다양한 루팅 탐지 기법 파악 → Java에서 구현 → JNI에서 구현  
+
+  #### 후킹 탐지(Hooking Detection)  
+  > 다양한 후킹 탐지 기법 파악 → Java에서 구현 → JNI에서 구현  
   
   #### 무결성 탐지(Integrity Detection)  
   > 솔직히 할지 안할지 모르겠음.. 일단 써놓음..  
