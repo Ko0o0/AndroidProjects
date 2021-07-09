@@ -18,14 +18,14 @@
 * ## 구현 내용
   #### 루팅 탐지(Rooting Detection)  
   > 다양한 루팅 탐지 기법 파악 → Java에서 구현 → JNI에서 구현  
-  > 
+  
   #### 무결성 탐지(Integrity Detection)  
   > 솔직히 할지 안할지 모르겠음.. 일단 써놓음..  
-  > 
+  
   #### 디버깅 탐지(Anti Debugging)  
   > 다양한 디버깅 탐지 기법 파악 → Java에서 구현 → JNI에서 구현  
-  >  
+  
   #### 소스 코드 동적 로딩(Dynamic Loading DEX/SO File)  
-  > Dynamic Loading DEX in Java → Dynamic Loading Encrypted DEX in Java → Dynamic Loading Encrypted DEX in JNI
-  > Dynamic Loading SO in Java → Dynamic Loading Encrypted SO in Java → Dynamic Loading Encrypted SO in JNI (이것도 아직 생각만 하고 있음..)  
+  > Java에서 DEX 동적 로딩 구현 → Java에서 암호화된 DEX 동적 로딩 구현 → JNI에서 암호화된 DEX 동적 로딩 구현
+  > Java에서 SO 동적 로딩 구현 → Java에서 암호화된 SO 동적 로딩 구현 → JNI에서 암호화된 SO 동적 로딩 구현 (이것도 아직 생각만 하고 있음..)  
   
