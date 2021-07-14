@@ -1,0 +1,4 @@
+com/example/dexclassloaderexample2/BuildConfig.java
+ com.example.dexclassloaderexample2.BuildConfig
+com/example/dexclassloaderexample2/MainActivity.java
+ com.example.dexclassloaderexample2.MainActivity

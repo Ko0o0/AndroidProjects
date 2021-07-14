@@ -1,0 +1,6 @@
+com/example/dexclassloaderexample3/BuildConfig.java
+ com.example.dexclassloaderexample3.BuildConfig
+com/example/dexclassloaderexample3/MainActivity.java
+ com.example.dexclassloaderexample3.MainActivity
+com/example/dexclassloaderexample3/Util.java
+ com.example.dexclassloaderexample3.Util
